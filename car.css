@@ -1,0 +1,21 @@
+h1
+{
+    text-align: center;
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.menu-bar
+{
+    text-align: center;
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+}
+li{
+    text-style: none;
+}
